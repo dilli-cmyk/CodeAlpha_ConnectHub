@@ -1,0 +1,6 @@
+{
+  "name": "ConnectHub - Social App",
+  "description": "A modern social media web application where users can create profiles, share posts, like and comment on content, and connect with other users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
